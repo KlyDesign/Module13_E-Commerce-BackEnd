@@ -12,7 +12,6 @@ router.get('/', async (req, res) => {
   } catch (err) {
     res.json(err);
   }
-  return res.json({Respo: "Yay"} )
   // find all categories
   // be sure to include its associated Products
 });
