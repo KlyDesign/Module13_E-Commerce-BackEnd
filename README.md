@@ -39,5 +39,4 @@
 
   ## Questions
   #### Github Profile: https://github.com/KlyDesign
-  #### Contact Email: N/A
   
