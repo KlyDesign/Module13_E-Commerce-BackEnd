@@ -16,7 +16,7 @@
   ####  Using Node JS with  dot env mysql2 express sequelize to mock backend product DB 
 
   ## Screenshot
-  ### ![Alt text](/Module13_E-Commerce-BackEnd/img/screenshot.jpg?raw=true "Optional Title")
+  ### ![Alt text](img/screenshot.jpg?raw=true "Optional Title")
 
   ## Installation
   ### npm i
